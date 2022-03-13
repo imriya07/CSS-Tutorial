@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    p.dotted {
+        border-style: dotted;
+    }
+</style>
+<body>
+
+    <h2>Everyday</h2>
+    <p>May not be good.</p>
+    <p class="dotted">But there is something good in every day.</p>
+    
+</body>
+</html>

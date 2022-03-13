@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    div {
+        border: 1px solid black;
+        margin: 25px 50px 75px 100px;
+        background-color: red;
+    }
+</style>
+<body>
+    <h2>life</h2>
+
+    <div>Life is complicated but beautiful</div>
+    
+</body>
+</html>
