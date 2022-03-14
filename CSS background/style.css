@@ -1,0 +1,13 @@
+/*.bg{
+    background-color: black;
+}
+body{
+    background-color: red;
+}*/
+
+.bg{
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 200px;
+}
