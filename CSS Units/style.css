@@ -1,0 +1,13 @@
+#parent{
+     border: 1px solid pink;
+     width: 500px;
+     font: size 10px;
+     
+}
+
+#child{
+    border: 1px solid blue;
+     width: 50%;
+     font-size:small
+
+}
