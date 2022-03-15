@@ -1,0 +1,13 @@
+.tet{
+    border: 1px solid yellow;
+    padding: 25px 30px 40px 50px;
+}
+body{
+    border:1px dotted black
+}
+#marg{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+    margin-right: 20px;
+}
