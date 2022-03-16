@@ -1,0 +1,10 @@
+#color-box{
+    background-color: aqua;
+    height: 20px;
+    width: 500px;
+    margin-bottom: 20px;
+    opacity: inherit;
+}
+img{
+    opacity: 3px;
+}
