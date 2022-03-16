@@ -1,0 +1,5 @@
+#tet{
+    height: 500px;
+    border: 1px solid blue;
+    background-image: linear-gradient(to right ,green,brown,pink);
+}
