@@ -1,0 +1,22 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+caption{
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black
+}
+th{
+    border: 1px solid green;
+    height: 30px;
+    padding: 5px;
+    text-align: right;
+}
+td{
+    border: 1px solid green;
+    height: 50px;
+    padding: 5px;
+    text-align: left;
+}
