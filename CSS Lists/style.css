@@ -1,0 +1,9 @@
+ol{
+    list-style-type: disc;
+}
+ul{
+    list-style-type: square;
+}
+li{
+    border: 1px solid red;
+}
