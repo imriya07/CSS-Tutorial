@@ -1,0 +1,11 @@
+.display{
+    border: 1px solid blue;
+    width : 50px;
+    height: 100px;
+    display: inline-block;
+}
+#div1{
+    /*display: none;*/
+    visibility: hidden;
+    height: 500px;
+}
