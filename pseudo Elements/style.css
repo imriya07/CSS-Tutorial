@@ -1,0 +1,16 @@
+p::first-line{
+    font-size: 35px;
+    color: aqua;
+}
+
+h1::before{
+    content: url(arrow.jpg);
+}
+h1::after{
+    content: "added after";
+}
+
+::selection{
+    color: blueviolet;
+    background-color: brown;
+}
