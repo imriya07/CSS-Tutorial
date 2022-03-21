@@ -1,0 +1,28 @@
+@keyframes changecolor{
+    from {background-color: green;}
+    25%{width: 300px}
+    to {background-color: yellow;}
+    75%{width: 200px;}
+}
+
+#animate{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    animation-name: changecolor;
+    animation-duration: 3s;
+    /*animation-delay: 3s;*/
+    animation-iteration-count: 3;
+}
+
+#animate2{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    animation-name: changecolor;
+    animation-duration: 3s;
+    /*animation-delay: 3s;*/
+    animation-iteration-count: 3;
+    animation-direction:  alternate-reverse;
+    animation-timing-function: ease;
+}
